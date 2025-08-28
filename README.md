@@ -90,4 +90,25 @@
 
 ---
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <!-- Contribution related -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark (opened PRs)"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck (repo got stars)"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw (merged PRs quickly)"/>
+  
+  <!-- Community -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO (merged PR without review)"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire (co-authored commits)"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain (accepted answers in discussions)"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80" title="Heart On Your Sleeve (reacted to discussions/issues)"/>
+  
+  <!-- Open Source & Special -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" title="Public Sponsor (support OSS devs)"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Helicopter Mission Contributor"/>
+</p>
+
+
 <p align="center">✨ Always open to collaborations in Data Engineering, ML, and AI Security Analytics ✨</p>
