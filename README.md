@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 - 🔭 Currently **Machine Learning Engineer at Tempico Labs OÜ**  
 - ⚡ AWS Certified **Data Engineer (DEA-C01)** & MongoDB Certified Developer (C100DEV)  
-- 🌍 Based in **Tallinn, Estonia**  
+- 🌍 Based in **Berlin, Germany**  
 - 💡 Passionate about **real-time data pipelines, anomaly detection, and AI-driven security analytics**  
 - 🎯 Experienced in **ETL, MLflow, Airflow, Kafka, Snowflake, Elasticsearch, Kubernetes, RAG-based chatbots**  
 
