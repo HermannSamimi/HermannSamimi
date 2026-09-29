@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Hermann Samimi</h1>
-<h3 align="center">🚀 Data Engineer | Analytics Engineer | ML Engineer</h3>
+<h3 align="center">🚀 Data Engineer | Analytics Engineer | AI Engineer</h3>
 
 <p align="center">
   <a href="mailto:Hermann.samimi@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently **Machine Learning Engineer at Tempico Labs OÜ**  
+- 🔭 Currently **Senior Data/AI Engineer at FYUL**  
 - ⚡ AWS Certified **Data Engineer (DEA-C01)** & MongoDB Certified Developer (C100DEV)  
 - 🌍 Based in **Berlin, Germany**  
 - 💡 Passionate about **real-time data pipelines, anomaly detection, and AI-driven security analytics**  
