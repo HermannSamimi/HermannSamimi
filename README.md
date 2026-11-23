@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently **Senior Data/AI Engineer at Tempico Labs**  
+- 🔭 Currently **Senior Data/AI Engineer at FYUL**  
 - ⚡ AWS Certified **Data Engineer (DEA-C01)** & MongoDB Certified Developer (C100DEV)  
 - 🌍 Based in **Berlin, Germany**  
 - 💡 Passionate about **real-time data pipelines, anomaly detection, and AI-driven security analytics**  
